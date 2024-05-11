@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+    color: gold;
+}
+a{
+    text-decoration: none;
+    color: white;
+  
+}
+img{
+    display: block;
+    margin: 0 auto;
+    max-height: 50px;
+}
+h2{
+    text-align: center;
+}
+.links{
+    display: block;
+    margin: 0 auto;
+}

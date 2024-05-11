@@ -5,6 +5,5 @@ body{
 }
 a{
     text-decoration: none;
-    border: 1px solid white;
-    border-radius: 5px;
+    color: white;
 }
